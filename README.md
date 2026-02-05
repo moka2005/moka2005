@@ -18,7 +18,7 @@ class Mokhtar:
         self.role = "Software Engineer"
         self.current_focus = "Cybersecurity"
         self.interests = ["Full Stack Development", "Problem Solving", "Building Impactful Solutions"]
-        self.location = "Blida, Algeria 🇩🇿"
+        self.location = "Djelfa, Algeria 🇩🇿"
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together!")
